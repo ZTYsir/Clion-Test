@@ -4,7 +4,7 @@
 #include "swap.h"
 // 这是一个交换函数
 void swap(int &a,int &b){
-    int c=a;
+    int tmp=a;
     a=b;
-    b=c;
+    b=tmp;
 }
