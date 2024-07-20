@@ -1,7 +1,0 @@
-/home/ztyer/clion-test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ztyer/clion-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ztyer/clion-test/cmake-build-debug/bin/CMakeFiles/main.dir
-/home/ztyer/clion-test/cmake-build-debug/bin/CMakeFiles/swap.dir
-/home/ztyer/clion-test/cmake-build-debug/bin/CMakeFiles/add.dir
-/home/ztyer/clion-test/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
-/home/ztyer/clion-test/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
