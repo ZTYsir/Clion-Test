@@ -80,7 +80,7 @@ rule CXX_SHARED_LIBRARY_LINKER__add_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/ztyer/Downloads/clion-2022.2.4/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/ztyer/CODE_test/C++分文件编写2 -B/home/ztyer/CODE_test/C++分文件编写2/cmake-build-debug
+  command = /home/ztyer/Downloads/clion-2022.2.4/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/ztyer/clion-test -B/home/ztyer/clion-test/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ztyer/CODE_test/C++分文件编写2/src
+# Install script for directory: /home/ztyer/clion-test/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
